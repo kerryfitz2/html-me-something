@@ -95,7 +95,7 @@
     font-size: 13px;
   }
   
-  Similar Building Blocks
+
 .blogpost-footer-actions {
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -179,7 +179,7 @@
   }
   
   .blogpost-footer-author .author {
-    color: grey;
+    color: #0a0a0a;
     margin-left: 0.75rem;
     font-size: 1.125rem;
     font-weight: 700;
@@ -191,4 +191,6 @@
     margin-bottom: 0;
     color: #8a8a8a;
   }
+  
+  
   
