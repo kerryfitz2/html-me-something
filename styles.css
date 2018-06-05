@@ -42,6 +42,13 @@
     background: url("https://placehold.it/2000x500&text=this is a header") center center no-repeat;
     background-size: cover;
   }
+
+  .menu li, .menu li a {
+    margin: auto!important;
+    color: black!important;
+  }
+
+  
 .marketing-site-content-section {
     display: -webkit-flex;
     display: -ms-flexbox;
